@@ -1,2 +1,3 @@
 # thesis2019Code
-DataAnalysis Code as a coauthor of a Psycology thesis
+DataAnalysis Code as coauthor of a Psycology thesis
+
